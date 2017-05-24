@@ -1,0 +1,5 @@
+__title__ = 'Mantaray'
+__version__ = '0.0.1'
+__author__ = 'Vladimir Kochetkov, Positive Technologies'
+__author_email__ = 'vkochetkov@ptsecurity.com'
+__description__ = 'A training asbtract interpretation engine for a subset of the C programming language'
